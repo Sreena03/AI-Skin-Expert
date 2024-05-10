@@ -1,8 +1,7 @@
                                                                             **ABSTRACT**
 
-      We all know that the smart phones have evolved a lot in these few years. It’s enhancing features have always surprised us. Now these have gained an importance in the medical field also. 
-So it is very important to make their use more useful and productive. “AI SKIN EXPERT” is an Android application. This helps the users of this app to predict their skin disease in its early 
-stage itself without been consulting a doctor. This Android application have following features. 
+      
+      We all know that the smart phones have evolved a lot in these few years. It’s enhancing features have always surprised us. Now these have gained an importance in the medical field also. So it is very important to make their use more useful and productive. “AI SKIN EXPERT” is an Android application. This helps the users of this app to predict their skin disease in its early stage itself without been consulting a doctor. This Android application have following features. 
 • PREDICTION OF DISEASE USING IMAGE
 • PREDICTION OF DISEASE USING SYMPTOM
 • TAKING AN APPOINTMENT WITH THE DOCTOR
